@@ -1,8 +1,10 @@
-#HR Data Analytics – HR Domain (Power BI, Excel) 
+HR Data Analytics – HR Domain (Power BI, Excel) 
 
-–	Built Power BI dashboards to track employee data (working hours, attendance, performance, leaves).
-–	Streamlined HR processes, improving efficiency and reducing manual effort.
-–	Saved the HR team 3–4 hours of work daily through automation and insights.
+- Built Power BI dashboards to track employee data (working hours, attendance, performance, leaves).
+
+- Streamlined HR processes, improving efficiency and reducing manual effort.
+
+- Saved the HR team 3–4 hours of work daily through automation and insights.
 
 
 📌 Overview
