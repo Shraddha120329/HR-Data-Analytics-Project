@@ -9,7 +9,7 @@ HR Data Analytics – HR Domain (Power BI, Excel)
 
 📌 Overview
 
-The HR Data Analysis Dashboard is a comprehensive analytics solution built in Power BI to transform raw HR attendance data into meaningful insights. Using the attendance dataset from 2022–2023, this dashboard enables HR professionals and business leaders to monitor workforce presence, analyze attendance patterns, and make informed decisions.
+The HR Data Analysis Dashboard is a comprehensive analytics solution built in Power BI to transform raw HR attendance data into meaningful insights. Using the attendance dataset, this dashboard enables HR professionals and business leaders to monitor workforce presence, analyze attendance patterns, and make informed decisions.
 
 The dashboard highlights key metrics such as:
 
